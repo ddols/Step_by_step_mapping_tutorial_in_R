@@ -15,13 +15,6 @@ D. Dols-Serrate
   `ggplot2`](#step-4-building-the-map-with-ggplot2)
 - [Final Remarks](#final-remarks)
 
-<style type="text/css">
-.figure .caption {
-  font-size: 9pt;      /* You can change this value */
-  font-style: italic;   /* You can still keep it italic */
-  color: #555555;      /* Optional: Change the color to a dark grey */
-}
-</style>
 
 # Basic requirements
 
@@ -386,4 +379,5 @@ species. Needless to say, there are plenty of maps out there and each
 one serves a purpose. However, this one will come in handy in most
 cases, especially in the field of Biology. And last but not least, Free
 Palestine.
+
 
