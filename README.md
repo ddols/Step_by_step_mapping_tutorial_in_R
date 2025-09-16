@@ -1,3 +1,5 @@
+[![GitHub Pages](https://img.shields.io/badge/GitHub-Pages-blue?logo=github)](https://ddols.github.io/Step_by_step_mapping_tutorial_in_R/)
+
 Tutorial: Mapping localities in R with Lambert projection
 ================
 D. Dols-Serrate
@@ -379,5 +381,6 @@ species. Needless to say, there are plenty of maps out there and each
 one serves a purpose. However, this one will come in handy in most
 cases, especially in the field of Biology. And last but not least, Free
 Palestine.
+
 
 
