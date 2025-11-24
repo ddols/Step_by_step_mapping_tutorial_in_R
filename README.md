@@ -35,7 +35,7 @@ like the example below.
 
 <div class="figure" style="text-align: center">
 
-<img src="Fig1_WM_Lambert_minimal.png" alt="**Fig. 1.** Example of a map obtained with the methodology explained in this tutorial" width="80%" />
+<img src="tmp/Fig1_WM_Lambert_minimal.png" alt="**Fig. 1.** Example of a map obtained with the methodology explained in this tutorial" width="80%" />
 <p class="caption">
 
 **Fig. 1.** Example of a map obtained with the methodology explained in
@@ -355,7 +355,7 @@ ggplot() +
 
 <div class="figure" style="text-align: center">
 
-<img src="Result_image.png" alt="**Fig. 2.** Example of the final map obtained with the methodology explained in this tutorial" width="80%" />
+<img src="tmp/Result_image.png" alt="**Fig. 2.** Example of the final map obtained with the methodology explained in this tutorial" width="80%" />
 <p class="caption">
 
 **Fig. 2.** Example of the final map obtained with the methodology explained in this tutorial
@@ -379,6 +379,7 @@ species. Needless to say, there are plenty of maps out there and each
 one serves a purpose. However, this one will come in handy in most
 cases, especially in the field of Biology. And last but not least, Free
 Palestine.
+
 
 
 
